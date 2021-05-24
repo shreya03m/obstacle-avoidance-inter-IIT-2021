@@ -1,1 +1,1 @@
-# obstacle-avoidance-inter-IIT-2021
+# obstacle-avoidance-Inter-IIT-2021
